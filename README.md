@@ -54,8 +54,8 @@ Proven track record in delivering AI-driven optimizations and communicating insi
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samrat0033&layout=compact&theme=radical" alt="Most Used Languages" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=samrat0033&show_icons=true&theme=radical" alt="Samrat's GitHub Stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soumya-717&layout=compact&theme=radical" alt="Most Used Languages" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Soumya-717&show_icons=true&theme=radical" alt="Soumya's GitHub Stats" height="160"/>
 </p>  
 
 ---
