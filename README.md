@@ -63,7 +63,7 @@ Proven track record in delivering AI-driven optimizations and communicating insi
 ## 🔥 GitHub Streak  
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samrat0033&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Soumya-717&theme=radical" alt="GitHub Streak" />
 </p>  
 
 ---
