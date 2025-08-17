@@ -11,14 +11,67 @@ ML Engineer skilled in designing and deploying production-grade models using Pyt
 Experience in prompt engineering, A/B testing, and containerizing solutions with Docker and Kubernetes.  
 Proven track record in delivering AI-driven optimizations and communicating insights to both technical and business stakeholders.  
 
-I love working on projects involving:  
+---
 
-- 🧠 Machine Learning & AI  
-- 📊 Data Analysis & Visualization  
-- 🌐 Backend Development with FastAPI & Flask  
-- 📝 Natural Language Processing  
-- ⚙️ Automation and Integrations (e.g., GitHub webhooks, APIs)  
+## 💼 Experience  
+
+### 🚀 ML Engineer – MintWays Technology *(May 2025 – Present)*  
+- Developed high-performance RESTful APIs using **FastAPI** with Uvicorn ASGI server.  
+- Engineered **LLM-powered AI solutions** with prompt engineering.  
+- Optimized **SQL queries** and data models for AI applications.  
+- Containerized ML services with **Docker** + CI/CD workflows.  
+- Collaborated on testing, debugging, and performance tuning.  
 
 ---
 
-📌 Currently, I’m pursuing my **B.Tech at Heritage Institute of Technology** and actively upskilling through real-life projects, internships, and open-source contributions.
+## 🧩 Projects  
+
+- 🧬 **Lung Cancer Prediction** – 98% accuracy with Random Forest.  
+- 😃 **Emotion Detection with CNN** – GUI deployed model, 61% accuracy.  
+- 🎬 **Movie Recommendation System** – 95% accuracy, reduced false positives.  
+- 🤖 **Medical Bot** – RAG-powered chatbot using medical PDF knowledge base.  
+
+---
+
+## ⚡ Tech Stack  
+
+**Languages:** Python, JavaScript, HTML/CSS, SQL  
+**Frameworks:** FastAPI, Flask, Scikit-learn, Pandas, NumPy, Matplotlib  
+**Tools & Platforms:** Git, MongoDB, Docker, Postman, VS Code, Jupyter, Hugging Face, Google Colab  
+**Cloud & DevOps:** Render, Railway, GitHub Actions (learning AWS basics)  
+
+---
+
+## 📚 Currently Learning  
+
+- 🧠 LLMs and Prompt Engineering  
+- 🤖 Deep Learning and Transformers  
+- ⚙️ Docker + CI/CD pipelines  
+- 🗄️ Advanced SQL and ETL pipelines  
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samrat0033&layout=compact&theme=radical" alt="Most Used Languages" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=samrat0033&show_icons=true&theme=radical" alt="Samrat's GitHub Stats" height="160"/>
+</p>  
+
+---
+
+## 🔥 GitHub Streak  
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samrat0033&theme=radical" alt="GitHub Streak" />
+</p>  
+
+---
+
+## 📬 Let's Connect!  
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/samrat-ghorui)  
+- 💻 [GitHub](https://github.com/samrat0033)  
+- 📧 [sg.samratghorui@gmail.com](mailto:sg.samratghorui@gmail.com)  
+
+Thanks for visiting my profile! 🚀 Let’s build something amazing together!  
