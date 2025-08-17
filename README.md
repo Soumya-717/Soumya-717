@@ -1,4 +1,4 @@
-# Hi 👋, I'm Samrat Ghorui  
+                                                                               # Hi 👋, I'm Soumyadeep Singha  
 
 🎓 B.Tech in Information Technology | 💡 Data Science Enthusiast | 🔎 AI/ML Explorer | 📍 Based in Jadavpur, Kolkata, India | ✉️ Soumyadeepsingha7@gmail.com | 📱 +91 9836955293  
 
