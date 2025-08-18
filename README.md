@@ -70,8 +70,8 @@
 
 ## 📬 Let's Connect!  
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/samrat-ghorui)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/soumyadeep-singha-588928215/)  
 - 💻 [GitHub](https://github.com/Soumya-717)  
-- 📧 [sg.samratghorui@gmail.com](mailto:soumyadeepsingha7@gmail.com)  
+- 📧 [soumyadeepsingha7@gmail.com](mailto:soumyadeepsingha7@gmail.com)  
 
 Thanks for visiting my profile! 🚀 Let’s build something amazing together!  
