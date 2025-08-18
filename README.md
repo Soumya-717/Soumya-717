@@ -7,9 +7,10 @@
 ---
 
 ## 🚀 About Me  
-ML Engineer skilled in designing and deploying production-grade models using Python, scikit-learn, PyTorch, and TensorFlow.  
-Experience in prompt engineering, A/B testing, and containerizing solutions with Docker and Kubernetes.  
-Proven track record in delivering AI-driven optimizations and communicating insights to both technical and business stakeholders.  
+💡 **Aspiring ML Engineer** with strong skills in designing and experimenting with machine learning models using **Python, scikit-learn, PyTorch, and TensorFlow**.  
+📚 Hands-on experience with **prompt engineering, model evaluation, and experimenting with containerization tools like Docker and Kubernetes** during projects and learning.  
+🚀 Eager to apply my knowledge to real-world challenges, contribute to **AI-driven solutions**, and continuously grow by collaborating with professionals and mentors.  
+  
 
 ---
 
