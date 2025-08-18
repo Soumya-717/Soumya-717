@@ -71,7 +71,7 @@ Proven track record in delivering AI-driven optimizations and communicating insi
 ## 📬 Let's Connect!  
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/samrat-ghorui)  
-- 💻 [GitHub](https://github.com/samrat0033)  
-- 📧 [sg.samratghorui@gmail.com](mailto:sg.samratghorui@gmail.com)  
+- 💻 [GitHub](https://github.com/Soumya-717)  
+- 📧 [sg.samratghorui@gmail.com](mailto:soumyadeepsingha7@gmail.com)  
 
 Thanks for visiting my profile! 🚀 Let’s build something amazing together!  
