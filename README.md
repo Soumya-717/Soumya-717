@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Soumyadeep Singha</h1>  
 
-🎓 B.Tech in Information Technology | 💡 Data Science Enthusiast | 🔎 AI/ML Explorer | 📍 Based in Jadavpur, Kolkata, India | ✉️ Soumyadeepsingha7@gmail.com | 📱 +91 9836955293  
+🎓 B.Tech in Information Technology | 💡 Data Science Enthusiast | 🔎 AI/ML Explorer | 📍 Based in Jadavpur, Kolkata, India | ✉️ soumyadeepsingha7@gmail.com | 📱 +91 9836955293  
 
 ![Profile views](https://komarev.com/ghpvc/?username=samrat0033&label=Profile%20views&color=0e75b6&style=flat)  
 
