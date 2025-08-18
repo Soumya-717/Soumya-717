@@ -17,11 +17,10 @@
 ## 💼 Experience  
 
 ### 🚀 Cybersecurity & Cryptography Intern – IBM *(January 2025 – March 2025)*  
-- Developed high-performance RESTful APIs using **FastAPI** with Uvicorn ASGI server.  
-- Engineered **LLM-powered AI solutions** with prompt engineering.  
-- Optimized **SQL queries** and data models for AI applications.  
-- Containerized ML services with **Docker** + CI/CD workflows.  
-- Collaborated on testing, debugging, and performance tuning.  
+● Secure Data in images using Steganography method and also the Encryption & Decryption Process.     
+● Penetration Testing & Ethical Hacking using Kali Linux and Wireshark for network traffic analysis.     
+● Cryptography & Fundamentals Encryption Techniques Symmetric Encryption (AES,DES).     
+● Incident response & threat intelligence Tools(Splunk,ELK).   
 
 ---
 
