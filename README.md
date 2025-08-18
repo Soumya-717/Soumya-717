@@ -16,7 +16,7 @@
 
 ## 💼 Experience  
 
-### 🚀 ML Engineer – MintWays Technology *(May 2025 – Present)*  
+### 🚀 Cybersecurity & Cryptography Intern – IBM *(January 2025 – March 2025)*  
 - Developed high-performance RESTful APIs using **FastAPI** with Uvicorn ASGI server.  
 - Engineered **LLM-powered AI solutions** with prompt engineering.  
 - Optimized **SQL queries** and data models for AI applications.  
